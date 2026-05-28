@@ -34,5 +34,10 @@
     - [MySQL进阶（主从同步，分库本表）](Java%E9%9D%A2%E8%AF%95%E9%A2%98/MySQL/MySQL%E8%BF%9B%E9%98%B6%EF%BC%88%E4%B8%BB%E4%BB%8E%E5%90%8C%E6%AD%A5%EF%BC%8C%E5%88%86%E5%BA%93%E6%9C%AC%E8%A1%A8%EF%BC%89.md)
     - [事务](Java%E9%9D%A2%E8%AF%95%E9%A2%98/MySQL/%E4%BA%8B%E5%8A%A1.md)
     - [索引](Java%E9%9D%A2%E8%AF%95%E9%A2%98/MySQL/%E7%B4%A2%E5%BC%95.md)
+  - Redis
+    - [Redisson分布式锁](Java%E9%9D%A2%E8%AF%95%E9%A2%98/Redis/Redisson%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81.md)
+    - [Redis基础](Java%E9%9D%A2%E8%AF%95%E9%A2%98/Redis/Redis%E5%9F%BA%E7%A1%80.md)
+    - [Redis异常场景](Java%E9%9D%A2%E8%AF%95%E9%A2%98/Redis/Redis%E5%BC%82%E5%B8%B8%E5%9C%BA%E6%99%AF.md)
+    - [Redis集群](Java%E9%9D%A2%E8%AF%95%E9%A2%98/Redis/Redis%E9%9B%86%E7%BE%A4.md)
   - 项目场景案例
     - [对充值卡操作进行优化](Java%E9%9D%A2%E8%AF%95%E9%A2%98/%E9%A1%B9%E7%9B%AE%E5%9C%BA%E6%99%AF%E6%A1%88%E4%BE%8B/%E5%AF%B9%E5%85%85%E5%80%BC%E5%8D%A1%E6%93%8D%E4%BD%9C%E8%BF%9B%E8%A1%8C%E4%BC%98%E5%8C%96.md)
