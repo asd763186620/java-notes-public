@@ -34,6 +34,8 @@
     - [MySQL进阶（主从同步，分库本表）](Java%E9%9D%A2%E8%AF%95%E9%A2%98/MySQL/MySQL%E8%BF%9B%E9%98%B6%EF%BC%88%E4%B8%BB%E4%BB%8E%E5%90%8C%E6%AD%A5%EF%BC%8C%E5%88%86%E5%BA%93%E6%9C%AC%E8%A1%A8%EF%BC%89.md)
     - [事务](Java%E9%9D%A2%E8%AF%95%E9%A2%98/MySQL/%E4%BA%8B%E5%8A%A1.md)
     - [索引](Java%E9%9D%A2%E8%AF%95%E9%A2%98/MySQL/%E7%B4%A2%E5%BC%95.md)
+  - RabbitMQ
+    - [RabbitMQ](Java%E9%9D%A2%E8%AF%95%E9%A2%98/RabbitMQ/RabbitMQ.md)
   - Redis
     - [Redisson分布式锁](Java%E9%9D%A2%E8%AF%95%E9%A2%98/Redis/Redisson%E5%88%86%E5%B8%83%E5%BC%8F%E9%94%81.md)
     - [Redis基础](Java%E9%9D%A2%E8%AF%95%E9%A2%98/Redis/Redis%E5%9F%BA%E7%A1%80.md)
